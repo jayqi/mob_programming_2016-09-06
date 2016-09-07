@@ -12,13 +12,13 @@ These two datasets contained some of the same information but were obtained at d
 
 ## Results
 
-Number of CRIDs in CPDB:  39591
-Number of CRIDs in June 2016:  16531
-Number of overlapping CRIDs:  2729
+    Number of CRIDs in CPDB:  39591
+    Number of CRIDs in June 2016:  16531
+    Number of overlapping CRIDs:  2729
 
-Number of rows for overlapping CRIDs with both non-null cat codes:  5505
+    Number of rows for overlapping CRIDs with both non-null cat codes:  5505
 
-Number of overlapping CRIDs with both non-null cat codes:  2293
-Number of mismatches:  67
+    Number of overlapping CRIDs with both non-null cat codes:  2293
+    Number of mismatches:  67
 
-It looks like we were still having some multiple rows because we kept the Accused_Name and there are multiple accused officers for each CRID. So there were 67 unique CRIDs between the two sets where the categories changed, out of 2729 overlapping cases. This doesn't include cases where categories were not set for one or the other. 
+It looks like we were still having some multiple rows because we kept the Accused_Name and there are multiple accused officers for each CRID. So there were 67 unique CRIDs between the two sets where the categories changed, out of 2729 overlapping cases. This doesn't include cases where categories were not set for one or the other.
