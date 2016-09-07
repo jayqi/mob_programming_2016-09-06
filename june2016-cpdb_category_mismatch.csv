@@ -1,0 +1,126 @@
+Complaint_Number,Accused_Name,Accused_Complaint_Category,crid,cat_id,category,allegation_name
+1053519,"SOSA, JESSICA",03B-SEARCH OF PERSON WITHOUT WARRANT,1053519,05N,Arrest/Lock-up Procedures,Unnecessary Physical Contact / Off Duty - No Injury
+1053524,"SKIBINSKI, CHRISTINE","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1053524,05N,Arrest/Lock-up Procedures,Unnecessary Physical Contact / Off Duty - No Injury
+1053676,"FOSTER, BELINDA",05A-ARRESTEE - DURING ARREST,1053676,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1053676,"DUCK, MICHAEL","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1053676,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1053676,"STEELE, ROBERTA","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1053676,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1053676,"FOUCH JR, CORDY","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1053676,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1053676,"CLINKSCALES, PHYLLIS",05A-ARRESTEE - DURING ARREST,1053676,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1053725,"POBLADOR, MARC",05A-ARRESTEE - DURING ARREST,1053725,05H,Arrest/Lock-up Procedures,Excessive Force - Use Of Firearm / Off Duty - No Injury
+1053913,"MURPHY, TARA",05A-ARRESTEE - DURING ARREST,1053913,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1053994,"STRUKE, MARK",12D-FAIL TO OBTAIN A COMPLAINT REGISTER NUMBER,1053994,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1054190,"O CONNOR, MARK",12D-FAIL TO OBTAIN A COMPLAINT REGISTER NUMBER,1054190,05N,Arrest/Lock-up Procedures,Unnecessary Physical Contact / Off Duty - No Injury
+1054190,"RODRIGUEZ, JOE",01C-MISCELLANEOUS,1054190,05N,Arrest/Lock-up Procedures,Unnecessary Physical Contact / Off Duty - No Injury
+1054857,"POREMBA, JAMES",12D-FAIL TO OBTAIN A COMPLAINT REGISTER NUMBER,1054857,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1054999,"BABICZ, ANTHONY","05P-EXCESSIVE FORCE - OFF DUTY (INCLUDES NEIGHBOR, TRAFFIC, TAV)",1054999,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1054999,"DECANTO, CHRISTOPH",05A-ARRESTEE - DURING ARREST,1054999,05P,Arrest/Lock-up Procedures,Unnecessary Display Of Weapon / On Duty
+1054999,"TRUESDALE, SAMUEL",05A-ARRESTEE - DURING ARREST,1054999,05P,Arrest/Lock-up Procedures,Unnecessary Display Of Weapon / On Duty
+1055105,"VELAZQUEZ, SATURNINO",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1055105,01A,Verbal Abuse,Use Of Profanity
+1055105,"KUSAR, JOSEPH",05N-WEAPON - UNNECESSARY DISPLAY OF,1055105,01A,Verbal Abuse,Use Of Profanity
+1055302,"SEBASTIAN, CLINTON",10J-NEGLECT OF DUTY/CONDUCT UNBECOMING - ON DUTY,1055302,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1055613,"RANGE, DONNIE",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1055613,12D,Supervisory Responsibilities,Fail To Obtain A Complaint Register Number
+1055761,"NEALS, GERALD",03D-ILLEGAL ARREST,1055761,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1055789,"VALENZUELA, ANTONIO",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1055789,12A,Supervisory Responsibilities,Initiate Proper Action
+1055789,"VALADEZ, ADRIAN",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1055789,12A,Supervisory Responsibilities,Initiate Proper Action
+1055789,"KEARNS, MARK",12B-PROPER DIRECTION - SUBORDINATE,1055789,10U,Operation/Personnel Violations,Inadequate / Failure To Provide Service
+1055789,"KEARNS, MARK",12B-PROPER DIRECTION - SUBORDINATE,1055789,12A,Supervisory Responsibilities,Initiate Proper Action
+1055789,"DE MONICA JR, JOSEPH",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1055789,12A,Supervisory Responsibilities,Initiate Proper Action
+1055789,"DUBIEL, ROBERT","12A-PROPER ACTION, INITIATE",1055789,10U,Operation/Personnel Violations,Inadequate / Failure To Provide Service
+1055789,"VIDLJINOVIC, STEVAN",05A-ARRESTEE - DURING ARREST,1055789,10U,Operation/Personnel Violations,Inadequate / Failure To Provide Service
+1055789,"VIDLJINOVIC, STEVAN",05A-ARRESTEE - DURING ARREST,1055789,12A,Supervisory Responsibilities,Initiate Proper Action
+1055789,"VALDOVINOS, JOSE",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1055789,12A,Supervisory Responsibilities,Initiate Proper Action
+1055789,"ALAMILLO, ARMANDO",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1055789,12A,Supervisory Responsibilities,Initiate Proper Action
+1055789,"GONZALEZ JR., MANUEL",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1055789,12A,Supervisory Responsibilities,Initiate Proper Action
+1055789,"GUETTLER, JOHN",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1055789,12A,Supervisory Responsibilities,Initiate Proper Action
+1056033,"NORBERG, THOMAS",10W-VEHICLE LICENSING - CITY,1056033,10B,Operation/Personnel Violations,Seat Belts
+1056033,"GAYTAN, LUIS",12D-FAIL TO OBTAIN A COMPLAINT REGISTER NUMBER,1056033,10B,Operation/Personnel Violations,Seat Belts
+1056467,"SHEPARD, MICHAEL","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1056467,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1056651,"SMITH JR, ELSWORTH",05A-ARRESTEE - DURING ARREST,1056651,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1056651,"SMITH JR, ELSWORTH",05A-ARRESTEE - DURING ARREST,1056651,01A,Verbal Abuse,Use Of Profanity
+1056651,"CADICHON, MILOT","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1056651,01A,Verbal Abuse,Use Of Profanity
+1056651,"GRAVES, ROBERT",01C-MISCELLANEOUS,1056651,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1056651,"GRAVES, ROBERT",01C-MISCELLANEOUS,1056651,01A,Verbal Abuse,Use Of Profanity
+1056651,"CUYLER, LATONYA",01A-USE OF PROFANITY,1056651,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1057042,"MOTYKA, JASON",05N-WEAPON - UNNECESSARY DISPLAY OF,1057042,12D,Supervisory Responsibilities,Fail To Obtain A Complaint Register Number
+1057042,"SCOTT, MATTHEW",05N-WEAPON - UNNECESSARY DISPLAY OF,1057042,12D,Supervisory Responsibilities,Fail To Obtain A Complaint Register Number
+1057042,"PEREZ, ADRIAN",05N-WEAPON - UNNECESSARY DISPLAY OF,1057042,12D,Supervisory Responsibilities,Fail To Obtain A Complaint Register Number
+1057051,"PETIT, GREGORY",01A-USE OF PROFANITY,1057051,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1057086,"KROFTA, MICHELLE","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1057086,03D,First Amendment and Illegal Arrest,Illegal Arrest / False Arrest
+1057086,"LYNCH, JAMES",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1057086,03D,First Amendment and Illegal Arrest,Illegal Arrest / False Arrest
+1057248,"VASQUEZ, VIDAL",12D-FAIL TO OBTAIN A COMPLAINT REGISTER NUMBER,1057248,05M,Arrest/Lock-up Procedures,Unnecessary Physical Contact / On Duty - No Injury
+1057248,"BALLAUER, JAMES",12D-FAIL TO OBTAIN A COMPLAINT REGISTER NUMBER,1057248,05M,Arrest/Lock-up Procedures,Unnecessary Physical Contact / On Duty - No Injury
+1057248,"BALESTERI, DAMEN",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1057248,12D,Supervisory Responsibilities,Fail To Obtain A Complaint Register Number
+1057476,"JACKSON, PRENTISS",09A-ALTERCATION/DISTURBANCE - DOMESTIC,1057476,10Z,Operation/Personnel Violations,Miscellaneous
+1057519,"UNDERWOOD JR, COLLIS",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1057519,01A,Verbal Abuse,Use Of Profanity
+1057759,"SHERLOCK, JAMES",05C-ARRESTEE - LOCKUP/DETENTION,1057759,12D,Supervisory Responsibilities,Fail To Obtain A Complaint Register Number
+1057891,"FOSTER, JOHN","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1057891,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1058851,"OPPEDISANO, KIMBERLY",10Z-MISCELLANEOUS,1058851,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1058895,"FOWLER, TERRENCE",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1058895,01C,Verbal Abuse,Sexual Orientation
+1059104,"LUEVANO, FRANCISCO",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1059104,05N,Arrest/Lock-up Procedures,Unnecessary Physical Contact / Off Duty - No Injury
+1059104,"NUNEZ, GLORIA",01A-USE OF PROFANITY,1059104,05N,Arrest/Lock-up Procedures,Unnecessary Physical Contact / Off Duty - No Injury
+1059171,"OTERO, HERMAN",01A-USE OF PROFANITY,1059171,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1059180,"MC GOVERN, JOHN","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1059180,12D,Supervisory Responsibilities,Fail To Obtain A Complaint Register Number
+1059692,"DIBLICH, MATTHEW",05A-ARRESTEE - DURING ARREST,1059692,01B,Verbal Abuse,"Racial / Ethnic, Etc."
+1059692,"BELCIK, TIMOTHY","01B-RACIAL/ETHNIC, ETC.",1059692,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1059760,"MENDOZA, MARIO",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1059760,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1059760,"NIETO, CESAR",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1059760,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1059792,"STRUKE, MARK",12D-FAIL TO OBTAIN A COMPLAINT REGISTER NUMBER,1059792,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1059845,"BARKER, THOMAS",04J-MISCELLANEOUS,1059845,12F,Supervisory Responsibilities,Failure To Ensure - Civil Rights
+1059845,"ALLEN, REGAN",12F-MISCELLANEOUS,1059845,04J,Search-Related,Miscellaneous
+1059845,"RUHNKE, ERIK",04J-MISCELLANEOUS,1059845,12F,Supervisory Responsibilities,Failure To Ensure - Civil Rights
+1059884,"LANDRUM, JASON",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1059884,01B,Verbal Abuse,"Racial / Ethnic, Etc."
+1060068,"ROJAS, JOSE",03D-ILLEGAL ARREST,1060068,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1060098,"TUCKER, JAMES",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1060098,03G,First Amendment and Illegal Arrest,Improper Search Of Vehicle
+1060286,"WARZYNSKI, DANIEL",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1060286,10Z,Operation/Personnel Violations,Miscellaneous
+1060731,"MARTINEZ, NOEL",03D-ILLEGAL ARREST,1060731,05M,Arrest/Lock-up Procedures,Unnecessary Physical Contact / On Duty - No Injury
+1062024,"TREACY, JOSEPH","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1062024,10J,Operation/Personnel Violations,Neglect Of Duty
+1062519,"BERRY, SEAN",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1062519,01B,Verbal Abuse,"Racial / Ethnic, Etc."
+1062519,"LAU JR, GERALD","01B-RACIAL/ETHNIC, ETC.",1062519,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1062519,"CALLAHAN, MICHAEL","01B-RACIAL/ETHNIC, ETC.",1062519,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1062788,"BANDYK, MARK",10Z-MISCELLANEOUS,1062788,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1062788,"HITIRIS, EVANGELOS",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1062788,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1062788,"HITIRIS, EVANGELOS",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1062788,10Z,Operation/Personnel Violations,Miscellaneous
+1062788,"ANDRADE, JAMES",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1062788,10Z,Operation/Personnel Violations,Miscellaneous
+1062934,"ROMAN, JOSEPH",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1062934,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1062934,"LA CIVITA, MARK",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1062934,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1062934,"JANUSZEWSKI, MARK",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1062934,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1064329,"MCDERMOTT, DOUGLAS","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1064329,03C,First Amendment and Illegal Arrest,Search Of Premise Without Warrant
+1064670,"RUMSA, NICHOLAS",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1064670,03G,First Amendment and Illegal Arrest,Improper Search Of Vehicle
+1064755,"SCHURMAN, ANDREW",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1064755,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1065985,"ROSADO, LISSETTE",05H-MISCELLANEOUS,1065985,10Z,Operation/Personnel Violations,Miscellaneous
+1066037,"PINA, ANA",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1066037,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1066037,"MORALES, LINDA",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1066037,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1066139,"HILLIARD, MATTHEW",03G-MISCELLANEOUS,1066139,05H,Arrest/Lock-up Procedures,Excessive Force - Use Of Firearm / Off Duty - No Injury
+1066253,"VEGA, LUIS",05Q-CIVIL SUIT - THIRD PARTY,1066253,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1066372,"RICHARDS, WARREN",05Q-CIVIL SUIT - THIRD PARTY,1066372,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1066938,"GALE, MARY KATE",10Z-MISCELLANEOUS,1066938,01B,Verbal Abuse,"Racial / Ethnic, Etc."
+1067469,"MINOGUE, WILLIAM",01A-USE OF PROFANITY,1067469,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1067505,"RUIZ, LEOPOLDO",05A-ARRESTEE - DURING ARREST,1067505,01B,Verbal Abuse,"Racial / Ethnic, Etc."
+1067573,"LOUGHRAN, SEAN",12D-FAIL TO OBTAIN A COMPLAINT REGISTER NUMBER,1067573,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1067618,"WHITE, ANTON",10U-INADEQUATE/FAILURE TO PROVIDE SERVICE,1067618,05H,Arrest/Lock-up Procedures,Excessive Force - Use Of Firearm / Off Duty - No Injury
+1068361,"MAYER, JEFFREY",06J-MISCELLANEOUS,1068361,01C,Verbal Abuse,Sexual Orientation
+1068422,"COATES, TIMOTHY","04H-PROPER CARE, INJURY/DEATH",1068422,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1068422,"SOTGIU, SARA","04H-PROPER CARE, INJURY/DEATH",1068422,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1068422,"DEANE, MICHAEL",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1068422,04H,Search-Related,Proper Care - Injury / Death
+1068422,"JACOBS, GREGORY",05L-UNNECESSARY PHYSICAL CONTACT - ON DUTY,1068422,04H,Search-Related,Proper Care - Injury / Death
+1068422,"MALOY, BRIAN","04H-PROPER CARE, INJURY/DEATH",1068422,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1068422,"ARIZA, ROY","04H-PROPER CARE, INJURY/DEATH",1068422,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1068714,"TOTH, LOU",03G-MISCELLANEOUS,1068714,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1068880,"KENNEDY, MATTHEW",05A-ARRESTEE - DURING ARREST,1068880,10J,Operation/Personnel Violations,Neglect Of Duty
+1069278,"VUJIC, MILAN",01C-MISCELLANEOUS,1069278,05H,Arrest/Lock-up Procedures,Excessive Force - Use Of Firearm / Off Duty - No Injury
+1069278,"VUJIC, MILAN",01C-MISCELLANEOUS,1069278,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1069278,"BARRERA, GABRIEL",05H-MISCELLANEOUS,1069278,05A,Arrest/Lock-up Procedures,Excessive Force / On Duty - Injury
+1069278,"CURIA, JEFFREY",05A-ARRESTEE - DURING ARREST,1069278,05H,Arrest/Lock-up Procedures,Excessive Force - Use Of Firearm / Off Duty - No Injury
+1069278,"HAGELINE, EMIL",05A-ARRESTEE - DURING ARREST,1069278,05H,Arrest/Lock-up Procedures,Excessive Force - Use Of Firearm / Off Duty - No Injury
+1069720,"WALTON, MATTHEW",10Z-MISCELLANEOUS,1069720,12D,Supervisory Responsibilities,Fail To Obtain A Complaint Register Number
+1069734,"WILLIAMS, LAWRENCE",05A-ARRESTEE - DURING ARREST,1069734,05L,Arrest/Lock-up Procedures,Domestic Incident - Not Physical
+1069760,"PAOLETTI, JAMES","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1069760,03G,First Amendment and Illegal Arrest,Improper Search Of Vehicle
+1072055,"GAMBOA, GUILLERMO",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1072055,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1072055,"WILKE III, RAYMOND",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1072055,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1072055,"HAYES JR, LENZIE",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1072055,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1072055,"CANNON, JOHN",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1072055,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1072055,"CARRIERE III, PAUL","05B-ARRESTEE - AFTER ARREST, PRIOR TO LOCKUP",1072055,05M,Arrest/Lock-up Procedures,Unnecessary Physical Contact / On Duty - No Injury
+1072055,"SORAGHAN, PATRICK",05M-UNNECESSARY PHYSICAL CONTACT - OFF DUTY,1072055,05B,Arrest/Lock-up Procedures,Excessive Force / On Duty - No Injury
+1072179,"COLLINS, FREDERICK",05N-WEAPON - UNNECESSARY DISPLAY OF,1072179,05Q,Arrest/Lock-up Procedures,Unnecessary Display Of Weapon / Off Duty
+1072890,"ALEXE, ELENA",07A-MISCONDUCT DURING ISSUANCE OF CITATION,1072890,03G,First Amendment and Illegal Arrest,Improper Search Of Vehicle
+1072890,"ALONZO, EDWARD",07A-MISCONDUCT DURING ISSUANCE OF CITATION,1072890,03G,First Amendment and Illegal Arrest,Improper Search Of Vehicle
